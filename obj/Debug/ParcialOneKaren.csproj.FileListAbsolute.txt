@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\ParcialOneKaren\bin\Debug\ParcialOneKaren.exe.config
+C:\Users\Usuario\source\repos\ParcialOneKaren\bin\Debug\ParcialOneKaren.exe
+C:\Users\Usuario\source\repos\ParcialOneKaren\bin\Debug\ParcialOneKaren.pdb
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\ParcialOneKaren.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\ParcialOneKaren_MarkupCompile.cache
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\ParcialOneKaren_MarkupCompile.lref
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\ParcialOneKaren.g.resources
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\ParcialOneKaren.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\ParcialOneKaren.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\ParcialOneKaren.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\ParcialOneKaren.exe
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\ParcialOneKaren.pdb
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\VistaVendedor.g.cs
+C:\Users\Usuario\source\repos\ParcialOneKaren\obj\Debug\VistaVendedor.baml

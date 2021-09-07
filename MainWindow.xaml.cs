@@ -24,5 +24,28 @@ namespace ParcialOneKaren
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+           string nombreUsuario =  txt_usuario.Text;
+           string contrasena = txt_contrasena.Text;
+           
+            Usuario admin = new Usuario("admin", "1234");
+            Usuario vendedor = new Usuario("vendedor", "4321");
+            MessageBox.Show(vendedor.contrasena);
+            if (nombreUsuario == "admin" /*admin.nombre_usuario*/ && contrasena == /*admin.contrasena*/ "1234")
+            {
+                //redireccionar al panel admin
+            }else if (nombreUsuario == "vendedor"/*vendedor.nombre_usuario*/ && contrasena == /*vendedor.contrasena*/ "4231")
+            {
+                //Redireccionar al panel vendedor
+                VistaVendedor win2 = new VistaVendedor();
+                win2.Show();
+            }
+            else
+            {
+                //Mensaje de error, porque los datos no coinciden con usuarios registrados.
+            }
+        }
     }
 }
